@@ -14,9 +14,10 @@ def join_nested_strings(src)
     end
     row_index += 1
     final_string = strings_array.join
-    return final_string
 end
+return final_string
 end
+
 
 
 
