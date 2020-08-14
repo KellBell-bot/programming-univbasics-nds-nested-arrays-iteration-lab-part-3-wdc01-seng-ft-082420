@@ -14,7 +14,7 @@ def join_nested_strings(src)
     row_index += 1
 end
 end
-
+strings_array
 
 
 
