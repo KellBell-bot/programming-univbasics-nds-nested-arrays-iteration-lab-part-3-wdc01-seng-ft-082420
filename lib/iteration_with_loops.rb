@@ -13,7 +13,7 @@ def join_nested_strings(src)
       element_index += 1
     end
     row_index += 1
-    final_string = strings_array.join
+    final_string = strings_array.join(' ')
 end
 return final_string
 end
